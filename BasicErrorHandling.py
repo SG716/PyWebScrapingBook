@@ -24,4 +24,6 @@ if title == None:
     else:
         print(title)
 
-i need to continue
+git is fucking retarded.
+
+i had to save a few diff things
